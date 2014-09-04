@@ -1,5 +1,5 @@
 # Create a Scratch Account
-
+![Test Image](http://www.nndb.com/people/877/000022811/rodney.jpg)
 
 
 ## Usernames
