@@ -3,5 +3,6 @@ Use the link below to open the Scratch editor with the first tutorial open. Foll
 http://scratch.mit.edu/projects/editor/?tip_bar=getStarted
 
 ## Completion Log
-Please put your name (username): <link to your Project 0>
-1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/26300805/
+Please put your name (username): <link to your Project 0>   
+1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/26300805/   
+
