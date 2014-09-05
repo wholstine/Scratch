@@ -1,4 +1,6 @@
 # Create a Scratch Account
+Go to [Scratch](http://scratch.mit.edu)
+
 ![Create Account](create_account_1.png)
 
 ## Usernames
