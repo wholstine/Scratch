@@ -3,7 +3,9 @@
 
 ![Create Account](create_account_1.png)
 
-### Select a username and password.  
+### Select a username and password.
+
+![Select Username](create_account_2.png)
 
 ## Usernames
 Edit this file and send a push request to add your name and username to the list below.
