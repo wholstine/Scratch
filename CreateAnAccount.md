@@ -10,6 +10,9 @@
 ### Enter your birthday, gender, country, and email address.
 ![Email Address](create_account_3.png)
 
+### Congratulations!  You have created a Scratch Account.  Scroll down to complete this assignment.
+![Congratulations](create_account_4.png)
+
 ## Usernames
 Edit this file and send a push request to add your name and username to the list below.
 Add your username below using the format Last Name, First Name: Username
