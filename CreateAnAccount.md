@@ -7,6 +7,9 @@
 
 ![Select Username](create_account_2.png)
 
+### Enter your birthday, gender, country, and email address.
+![Email Address](create_account_3.png)
+
 ## Usernames
 Edit this file and send a push request to add your name and username to the list below.
 Add your username below using the format Last Name, First Name: Username
