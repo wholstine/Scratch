@@ -1,5 +1,5 @@
 # Create a Scratch Account
-Go to [Scratch](http://scratch.mit.edu)
+Go to <a href="http://scratch.mit.edu" target=new>Scratch</a>
 
 ![Create Account](create_account_1.png)
 
