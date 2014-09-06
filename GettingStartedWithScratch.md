@@ -10,5 +10,5 @@ Please put your name (username): [Link to your Project]
 
 ## <a href="http://scratch.mit.edu/projects/editor/?tip_bar=hoc" target=new>Project 1</a>
 
-### Project 1 -- Completing Log
+### Project 1 -- Completion Log
 Please put your name (username): [Link to your Project] 
