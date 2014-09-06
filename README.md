@@ -22,4 +22,4 @@ Scratch has another fun built-in activity for getting started in which you creat
 
 ## Projects
 ### [Scratch Project 0](GettingStartedWithScratch.md#project-0)
-### [Scratch Project 1](GettingStartedWithScratch#project-1)
+### [Scratch Project 1](GettingStartedWithScratch.md#project-1)
