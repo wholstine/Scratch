@@ -10,13 +10,9 @@ Scratch has a few built-in activities for quickly learning how it’s used. Comp
 ### [Create an account](CreateAnAccount.md)
 
 
-### [Getting Started With Scratch](GettingStartedWithScratch.md)
+### [Getting Started With Scratch & Projects](GettingStartedWithScratch.md)
 The first activity we recommend is an introduction to Scratch. Use the link below to open the Scratch editor with the first tutorial open. Follow the instructions on the right hand side of your window to learn the basics of Scratch as you build a small sample project. If the link doesn't work, look for the Getting Started With Scratch link under the Scratch editor's Tips button.
    
-
-### [Holiday Card Project](HolidayCard.md) 
-Scratch has another fun built-in activity for getting started in which you create a Holiday Card. Open the link below and follow the instructions on the right hand side of the window to make your own Holiday Card.
-  
 
 ### [Scratch Resources](ScratchResources.md)   
 
