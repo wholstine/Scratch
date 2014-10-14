@@ -4,7 +4,7 @@ Use the link below to open the Scratch editor with the first tutorial open. Foll
 
 ### Project 0 -- Completion Log
 Please put your name (username): [Link to your Project]   
-1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/26300805/
+1) Kuehn, Michael (mkuehn10): <a href="http://scratch.mit.edu/projects/26300805/" target=new>http://scratch.mit.edu/projects/26300805/</a>
 
 
 
