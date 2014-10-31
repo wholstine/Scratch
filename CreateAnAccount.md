@@ -21,7 +21,5 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 
 
 1) Kuehn, Michael: mkuehn10  
-2) mkuehnyahoo
-
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
