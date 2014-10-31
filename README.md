@@ -15,7 +15,3 @@ The first activity we recommend is an introduction to Scratch. Use the link belo
    
 
 ### [Scratch Resources](ScratchResources.md)   
-
-## Projects
-### [Scratch Project 0](GettingStartedWithScratch.md#project-0)
-### [Scratch Project 1](GettingStartedWithScratch.md#project-1)
