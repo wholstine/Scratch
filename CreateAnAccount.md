@@ -17,9 +17,10 @@
 Edit this file and send a push request to add your name and username to the list below.
 Add your username below using the format Last Name, First Name: Username
 
+To edit this file, scroll back up to the top of the screen and select the "pen" that is between the icon of the computer and trash can.
 
-1) Kuehn, Michael: mkuehn10   
-2) Student, Test: sahscode   
+
+1) Kuehn, Michael: mkuehn10      
 
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
