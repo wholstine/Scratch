@@ -12,6 +12,7 @@ Please put your name (username): [Link to your Project]
 
 ### Animate Your Name -- Completion Log
 Please put your name (username): [Link to your Project] 
+1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/
 
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/cardtip-intro.html" target="new">(Make a Greeting Card)</a>
 
