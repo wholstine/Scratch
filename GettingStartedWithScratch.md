@@ -11,7 +11,7 @@ Please put your name (username): [Link to your Project]
 4) Davis, James (jdavisaol) http://scratch.mit.edu/projects/32388164/   
 5) Holstine, Lucas (lholstine) : http://scratch.mit.edu/projects/32390118/   
 6) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32390418/      
-7) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32390768/
+7) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32390768/   
 8)   
 9)   
 10)   
