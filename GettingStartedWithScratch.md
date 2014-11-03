@@ -4,10 +4,10 @@ Use the link below to open the Scratch editor with the first tutorial open. Foll
 
 ### Getting Started With Scratch -- Completion Log
 Please put your name (username): [Link to your Project]   
-1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32288206/
-2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32391324/
-3) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32388746/
-4.)Davis, James (jdavisaol) http://scratch.mit.edu/projects/32388164/
+1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32288206/   
+2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32391324/   
+3) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32388746/   
+4)Davis, James (jdavisaol) http://scratch.mit.edu/projects/32388164/   
 
 
 
