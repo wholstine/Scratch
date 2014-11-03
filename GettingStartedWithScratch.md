@@ -10,6 +10,7 @@ Please put your name (username): [Link to your Project]
 3) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32388746/   
 4) Davis, James (jdavisaol) http://scratch.mit.edu/projects/32388164/   
 5) Holstine, Lucas (lholstine) : http://scratch.mit.edu/projects/32390118/
+6) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32390418/
 
 
 
