@@ -13,6 +13,10 @@ Please put your name (username): [Link to your Project]
 6) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32390418/   
 7) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32390768/
 
+
+
+>>>>>>> 3c292eec470c95c36ae3bdff57d428b3c726dc70
+
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/nametip-intro.html" target="new">(Animate Your Name)</a>
 
 ### Animate Your Name -- Completion Log
