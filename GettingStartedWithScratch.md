@@ -33,7 +33,7 @@ Please put your name (username): [Link to your Project]
 ### Animate Your Name -- Completion Log
 Please put your name (username): [Link to your Project]    
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/   
-2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/
+2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/   
 3)   
 4)   
 5)   
