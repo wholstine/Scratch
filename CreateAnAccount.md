@@ -23,6 +23,10 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 1) Kuehn, Michael: mkuehn10
 2.)Davis, James: jdavisaol
 3) Walker, Tyler: tmwalker631
+<<<<<<< HEAD
 4) Mark, Schlies: Mschlies
+=======
+4) West, Joseph: Failord_Studious
+>>>>>>> 2f95a619501b38a2d7708eba0b4a6dd654939ba8
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
