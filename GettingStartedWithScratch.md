@@ -5,7 +5,7 @@ Use the link below to open the Scratch editor with the first tutorial open. Foll
 ### Getting Started With Scratch -- Completion Log
 Please put your name (username): [Link to your Project]   
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32288206/
-
+2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32391324/
 
 
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/nametip-intro.html" target="new">(Animate Your Name)</a>
