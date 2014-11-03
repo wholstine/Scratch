@@ -7,7 +7,7 @@ Please put your name (username): [Link to your Project]
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32288206/
 2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32391324/
 3) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32388746/
-
+4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32390418/
 
 
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/nametip-intro.html" target="new">(Animate Your Name)</a>
