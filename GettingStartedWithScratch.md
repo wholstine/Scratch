@@ -20,7 +20,7 @@ Please put your name (username): [Link to your Project]
 13) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32391192/     
 14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/     
 15) Wiles, Stephen (swiles):  http://scratch.mit.edu/projects/32739472/     
-16)   
+16) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/       
 17)   
 18)   
 19)   
@@ -32,7 +32,6 @@ Please put your name (username): [Link to your Project]
 
 ### Animate Your Name -- Completion Log
 Please put your name (username): [Link to your Project]    
-<<<<<<< HEAD
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/      
 2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/      
 3) Holstine, William (wholstine): http://scratch.mit.edu/projects/32392860/     
@@ -40,7 +39,7 @@ Please put your name (username): [Link to your Project]
 5) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32739762/   
 6) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32739438/      
 7) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32741252/   
-8)   
+8) Wiles, Stephen (swiles) :  http://scratch.mit.edu/projects/32739472/      
 9)   
 10)   
 11)   
