@@ -24,6 +24,7 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 2) Davis, James: jdavisaol   
 3) Walker, Tyler: tmwalker631   
 4) Mark, Schlies: Mschlies   
-5) West, Joseph: Failord_Studious   
+5) West, Joseph: Failord_Studious  
+10) Solt, Terry: Tsolt
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
