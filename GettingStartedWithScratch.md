@@ -19,12 +19,12 @@ Please put your name (username): [Link to your Project]
 12) Lamb, Devan (DMlamb):   http://scratch.mit.edu/projects/32390626/      
 13) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32391192/     
 14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/     
-15) Wiles, Stephen (swiles):  http://scratch.mit.edu/projects/32739472/     
-16) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
+15) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
+16)   
 17)   
 18)   
-19)   
-20)
+19)
+20)   
 21)
 
 
