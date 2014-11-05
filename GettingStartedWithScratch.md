@@ -32,11 +32,12 @@ Please put your name (username): [Link to your Project]
 
 ### Animate Your Name -- Completion Log
 Please put your name (username): [Link to your Project]    
+<<<<<<< HEAD
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/      
 2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/      
 3) Holstine, William (wholstine): http://scratch.mit.edu/projects/32392860/     
-4) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32393286/      
-5)   
+4) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32393286/     
+5) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32739762/      
 6)   
 7)   
 8)   
