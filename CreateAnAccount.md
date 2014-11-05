@@ -34,5 +34,6 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 12) Holstine, William: wholstine    
 13) Solt, Terry: Tsolt   
 14) Thomas, White: Mehiswow   
+15)Atik, Daniel: datik   
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
