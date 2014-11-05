@@ -38,5 +38,7 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 16) Siders, Connor : csiders
 17) Lamb, Devan : DMlamb 
 18) Kulkarni, Michael: mkulkarnigmail    
+19) Parog, Michael: mparog210   
+
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
