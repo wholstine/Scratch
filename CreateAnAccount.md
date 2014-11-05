@@ -27,5 +27,5 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 5) West, Joseph: Failord_Studious   
 6) Wiles, Stephen: swiles   
 7) Basham, Chris: Archrath   
-
+8) Parog, Michael: mparog210
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
