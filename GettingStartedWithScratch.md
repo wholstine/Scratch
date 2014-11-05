@@ -18,8 +18,8 @@ Please put your name (username): [Link to your Project]
 11) Atik, Daniel (atikd):    http://scratch.mit.edu/projects/32391236/   
 12) Lamb, Devan (DMlamb):   http://scratch.mit.edu/projects/32390626/      
 13) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32391192/     
-14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/   
-15)   
+14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/     
+15) Wiles, Stephen (swiles):  http://scratch.mit.edu/projects/32739472/     
 16)   
 17)   
 18)   
@@ -58,7 +58,6 @@ Please put your name (username): [Link to your Project]
 
 ### Make a Greeting Card -- Completion Log
 Please put your name (username): [Link to your Project]    
-<<<<<<< HEAD
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32292826/   
 2) Holstine, William (wholstine): http://scratch.mit.edu/projects/32748142/      
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
