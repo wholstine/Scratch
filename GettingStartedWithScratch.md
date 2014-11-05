@@ -12,8 +12,9 @@ Please put your name (username): [Link to your Project]
 5) Holstine, Lucas (lholstine) : http://scratch.mit.edu/projects/32390118/   
 6) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32390418/      
 7) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32390768/   
-8) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32391596/    
+8) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32391596/ 
 9) Holstine, William (wholstine): http://scratch.mit.edu/projects/32740748/   
+<<<<<<< HEAD
 10) Filipiak, Chance (CFilipiak): http://scratch.mit.edu/projects/32391248/       
 11) Atik, Daniel (atikd):    http://scratch.mit.edu/projects/32391236/   
 12) Lamb, Devan (DMlamb):   http://scratch.mit.edu/projects/32390626/      
@@ -21,7 +22,7 @@ Please put your name (username): [Link to your Project]
 14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/     
 15) Wiles, Stephen (swiles):  http://scratch.mit.edu/projects/32739472/     
 16) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/       
-17)   
+17) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
 18)   
 19)   
 20)   
