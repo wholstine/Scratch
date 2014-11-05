@@ -60,7 +60,7 @@ Please put your name (username): [Link to your Project]
 Please put your name (username): [Link to your Project]    
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32292826/
 2) Holstine, William (wholstine): http://scratch.mit.edu/projects/32748142/   
-3)   
+3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
 4)   
 5)   
 6)   
