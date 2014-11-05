@@ -34,7 +34,7 @@ Please put your name (username): [Link to your Project]
 Please put your name (username): [Link to your Project]    
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/   
 2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/   
-3)   
+3) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32739438/
 4)   
 5)   
 6)   
@@ -59,7 +59,7 @@ Please put your name (username): [Link to your Project]
 ### Make a Greeting Card -- Completion Log
 Please put your name (username): [Link to your Project]    
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32292826/
-2)    
+2) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/
 3)   
 4)   
 5)   
