@@ -32,13 +32,12 @@ Please put your name (username): [Link to your Project]
 
 ### Animate Your Name -- Completion Log
 Please put your name (username): [Link to your Project]    
-<<<<<<< HEAD
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/      
 2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/      
 3) Holstine, William (wholstine): http://scratch.mit.edu/projects/32392860/     
 4) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32393286/     
-5) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32739762/      
-6)   
+5) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32739762/   
+6) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32739438/      
 7)   
 8)   
 9)   
@@ -59,10 +58,11 @@ Please put your name (username): [Link to your Project]
 
 ### Make a Greeting Card -- Completion Log
 Please put your name (username): [Link to your Project]    
+<<<<<<< HEAD
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32292826/   
 2) Holstine, William (wholstine): http://scratch.mit.edu/projects/32748142/      
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
-4)   
+4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/
 5)   
 6)   
 7)   
