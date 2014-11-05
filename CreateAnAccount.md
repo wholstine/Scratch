@@ -31,6 +31,7 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 9) Davis, Alyson: aekii   
 10) Filipiak, Chance: CFilipiak   
 11) Holstine, Lucas: lholstine   
-12) Holstine, William: wholstine   
+12) Holstine, William: wholstine    
+13) Solt, Terry: Tsolt   
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
