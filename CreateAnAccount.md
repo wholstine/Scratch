@@ -29,5 +29,6 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 7) Basham, Chris: Archrath   
 8) Casto, Samuel: SamCasto   
 9) Davis, Alyson: aekii   
+10) Filipiak, Chance: CFilipiak   
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
