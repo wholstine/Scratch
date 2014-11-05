@@ -14,7 +14,7 @@ Please put your name (username): [Link to your Project]
 7) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32390768/   
 8) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32391596/ 
 9) Holstine, William (wholstine): http://scratch.mit.edu/projects/32740748/   
-10) Atik, Daniel (atikd):    http://scratch.mit.edu/projects/32391236/
+10) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/   
 11)   
 12)   
 13)   
@@ -34,7 +34,7 @@ Please put your name (username): [Link to your Project]
 Please put your name (username): [Link to your Project]    
 1) Kuehn, Michael (mkuehn10): http://scratch.mit.edu/projects/32287250/   
 2) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32393602/   
-3)   
+3) Wiles, Stephen (swiles) :  http://scratch.mit.edu/projects/32739472/ 
 4)   
 5)   
 6)   
