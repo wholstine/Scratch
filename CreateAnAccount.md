@@ -24,7 +24,6 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 2) Davis, James: jdavisaol   
 3) Walker, Tyler: tmwalker631   
 4) Mark, Schlies: Mschlies   
-7) Siders, Connor : csiders
 5) West, Joseph: Failord_Studious   
 6) Wiles, Stephen: swiles   
 7) Basham, Chris: Archrath   
@@ -35,6 +34,7 @@ To edit this file, scroll back up to the top of the screen and select the "pen" 
 12) Holstine, William: wholstine    
 13) Solt, Terry: Tsolt   
 14) Thomas, White: Mehiswow   
-15)Atik, Daniel: datik   
+15) Atik, Daniel: datik   
+16) Siders, Connor : csiders
 
 ## Go to [Getting Started With Scratch](GettingStartedWithScratch.md)
