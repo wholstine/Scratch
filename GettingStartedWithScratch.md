@@ -20,12 +20,12 @@ Please put your name (username): [Link to your Project]
 13) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32391192/     
 14) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32743802/     
 15) Wiles, Stephen (swiles):  http://scratch.mit.edu/projects/32739472/     
-16) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/       
-17) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
+16) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
+17)   
 18)   
 19)   
-20)   
-21)   
+20)
+21)
 
 
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/nametip-intro.html" target="new">(Animate Your Name)</a>
