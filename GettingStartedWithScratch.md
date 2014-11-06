@@ -41,7 +41,7 @@ Please put your name (username): [Link to your Project]
 7) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32741252/   
 8) Wiles, Stephen (swiles) :  http://scratch.mit.edu/projects/32739472/      
 9) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32739586/     
-10)   
+10) Filipiak, Chance (CFilipiak): http://scratch.mit.edu/projects/32741862/   
 11)   
 12)   
 13)   
