@@ -44,8 +44,8 @@ Please put your name (username): [Link to your Project]
 10) Filipiak, Chance (CFilipiak): http://scratch.mit.edu/projects/32741862/   
 11) Schlies, Mark (Mschlies): http://scratch.mit.edu/projects/32747746/      
 12) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32750044/       
-13) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32740540/    
-14)   
+13) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32740540/       
+14) Lamb, Devan (DMLamb):  http://scratch.mit.edu/projects/32746056/    
 15)   
 16)   
 17)   
