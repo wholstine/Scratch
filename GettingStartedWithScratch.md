@@ -41,7 +41,7 @@ Please put your name (username): [Link to your Project]
 7) Walker, Tyler (tmwalker631) : http://scratch.mit.edu/projects/32741252/   
 8) Wiles, Stephen (swiles) :  http://scratch.mit.edu/projects/32739472/      
 9) Thomas, White (Mehiswow): http://scratch.mit.edu/projects/32739586/     
-10) Filipiak, Chance (CFilipiak): http://scratch.mit.edu/projects/32741862/   
+10) Siders, Connor (csiders): http://scratch.mit.edu/projects/32744940/
 11)   
 12)   
 13)   
@@ -63,7 +63,7 @@ Please put your name (username): [Link to your Project]
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
-6) Thomas, White (Meniswow): http://scratch.mit.edu/projects/32935102/
+6)      
 7)   
 8)   
 9)   
