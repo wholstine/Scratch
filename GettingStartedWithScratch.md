@@ -22,7 +22,7 @@ Please put your name (username): [Link to your Project]
 15) Kulkarni,Michael(mkulkarnigmail):http://scratch.mit.edu/projects/32391718/      
 16) Siders, Connor (csiders): http://scratch.mit.edu/projects/32388770/   
 17) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/          
-18)   
+18) Solt, Terry (Tsolt): http://scratch.mit.edu/projects/32744310/  
 19)   
 20)   
 21)
@@ -64,7 +64,7 @@ Please put your name (username): [Link to your Project]
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
 6) Thomas, White (Meniswow): http://scratch.mit.edu/projects/32935102/
-7) Davis, James (jdavisaol):  http://scratch.mit.edu/projects/32751352/
+7)   
 8)   
 9)   
 10)   
