@@ -62,12 +62,12 @@ Please put your name (username): [Link to your Project]
 2) Holstine, William (wholstine): http://scratch.mit.edu/projects/32748142/      
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
-5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
+5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/    
 6) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32940780/     
 7) Filipiak, Chance (CFilipiak) http://scratch.mit.edu/projects/32938106/      
 8) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32941872/   
-9) Lamb, Devan (DMLamb):   http://scratch.mit.edu/projects/32943326/  
-10)   
+9) Lamb, Devan (DMLamb):   http://scratch.mit.edu/projects/32943326/   
+10) Siders, Connor (csiders): http://scratch.mit.edu/projects/32938844/      
 11)   
 12)   
 13)   
