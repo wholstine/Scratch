@@ -63,7 +63,7 @@ Please put your name (username): [Link to your Project]
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
-6)      
+6) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32941872/
 7)   
 8)   
 9)   
