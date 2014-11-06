@@ -23,7 +23,7 @@ Please put your name (username): [Link to your Project]
 16) Siders, Connor (csiders): http://scratch.mit.edu/projects/32388770/   
 17) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/          
 18) Solt, Terry (Tsolt): http://scratch.mit.edu/projects/32744310/  
-19)   
+19) Parog, Michael (mparog): http://scratch.mit.edu/projects/32393282/  
 20)   
 21)
 
@@ -47,7 +47,7 @@ Please put your name (username): [Link to your Project]
 13) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32740540/       
 14) Lamb, Devan (DMLamb):  http://scratch.mit.edu/projects/32746056/    
 15) Siders, Connor (csiders): http://scratch.mit.edu/projects/32744940/     
-16)   
+16) Parog, Michael (mparog): http://scratch.mit.edu/projects/32753928/  
 17)   
 18)   
 19)   
@@ -63,7 +63,7 @@ Please put your name (username): [Link to your Project]
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
-6) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32940780/#editor      
+6)      
 7)   
 8)   
 9)   
