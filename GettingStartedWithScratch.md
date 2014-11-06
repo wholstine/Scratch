@@ -65,7 +65,7 @@ Please put your name (username): [Link to your Project]
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
 6) Schlies, Mark (Mschlies):http://scratch.mit.edu/projects/32940780/     
 7) Filipiak, Chance (CFilipiak) http://scratch.mit.edu/projects/32938106/      
-8)   
+8) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32941872/   
 9)   
 10)   
 11)   
