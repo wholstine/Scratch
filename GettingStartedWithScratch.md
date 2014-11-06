@@ -46,7 +46,7 @@ Please put your name (username): [Link to your Project]
 12) Basham, Chris (Archrath) :  http://scratch.mit.edu/projects/32750044/       
 13) Holstine, Lucas (lholstine): http://scratch.mit.edu/projects/32740540/       
 14) Lamb, Devan (DMLamb):  http://scratch.mit.edu/projects/32746056/    
-15)   
+15) Siders, Connor (csiders): http://scratch.mit.edu/projects/32744940/     
 16)   
 17)   
 18)   
@@ -63,7 +63,7 @@ Please put your name (username): [Link to your Project]
 3) West, Joseph (Failord_Studious): http://scratch.mit.edu/projects/32584096     
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
-6) Thomas, White (Meniswow): http://scratch.mit.edu/projects/32935102/
+6)      
 7)   
 8)   
 9)   
