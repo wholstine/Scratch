@@ -64,7 +64,7 @@ Please put your name (username): [Link to your Project]
 4) Casto, Samuel (SamCasto): http://scratch.mit.edu/projects/32747118/      
 5) Davis, Alyson (aekii): http://scratch.mit.edu/projects/32750874/   
 6) Thomas, White (Meniswow): http://scratch.mit.edu/projects/32935102/
-7)   
+7) Davis, James (jdavisaol):  http://scratch.mit.edu/projects/32751352/
 8)   
 9)   
 10)   
