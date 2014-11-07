@@ -69,7 +69,7 @@ Please put your name (username): [Link to your Project]
 9) Lamb, Devan (DMLamb):   http://scratch.mit.edu/projects/32943326/   
 10) Siders, Connor (csiders): http://scratch.mit.edu/projects/32938844/      
 11) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32753846/   
-12)   
+12) Parog, Michael (mparog): http://scratch.mit.edu/projects/32943848/  
 13)   
 14)   
 15)   
