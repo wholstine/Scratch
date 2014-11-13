@@ -24,7 +24,7 @@ Please put your name (username): [Link to your Project]
 17) Wiles, Stephen (swiles): http://scratch.mit.edu/projects/32392960/          
 18) Solt, Terry (Tsolt): http://scratch.mit.edu/projects/32744310/  
 19) Parog, Michael (mparog): http://scratch.mit.edu/projects/32393282/  
-20)   
+20) Harless, Logan (lharless7): http://scratch.mit.edu/projects/32391908/  
 21)
 
 
@@ -74,7 +74,7 @@ Please put your name (username): [Link to your Project]
 14) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32751352/        
 15) Atik, Daniel (datik): http://scratch.mit.edu/projects/32939820/    
 16) Kulkarni,Michael(mkulkarnigmail)http://scratch.mit.edu/projects/33152656/    
-17)   
+17) Harless, Logan (lharless7): http://scratch.mit.edu/projects/33153250/  
 18)   
 19)   
 20)   
