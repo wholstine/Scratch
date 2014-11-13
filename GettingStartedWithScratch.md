@@ -50,7 +50,7 @@ Please put your name (username): [Link to your Project]
 16) Parog, Michael (mparog): http://scratch.mit.edu/projects/32753928/     
 17) Atik, Daniel (datik):http://scratch.mit.edu/projects/32745440/     
 18) Kulkarni,Michael(mkulkarnigmail)http://scratch.mit.edu/projects/32938066/  
-19)   
+19) Solt, Terry (Tsolt) http://scratch.mit.edu/projects/32750920/   
 20)   
 21)   
 
@@ -74,7 +74,7 @@ Please put your name (username): [Link to your Project]
 14) Davis, James (jdavisaol): http://scratch.mit.edu/projects/32751352/        
 15) Atik, Daniel (datik): http://scratch.mit.edu/projects/32939820/    
 16) Kulkarni,Michael(mkulkarnigmail)http://scratch.mit.edu/projects/33152656/    
-17)   
+17) Solt, Terry (Tsolt) http://scratch.mit.edu/projects/33151688/  
 18)   
 19)   
 20)   
