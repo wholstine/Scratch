@@ -25,7 +25,7 @@ Please put your name (username): [Link to your Project]
 18) Solt, Terry (Tsolt): http://scratch.mit.edu/projects/32744310/  
 19) Parog, Michael (mparog): http://scratch.mit.edu/projects/32393282/  
 20) Anderson, Kristian (krisander32): http://scratch.mit.edu/projects/33870134/   
-21  Harless, Logan (lharless7): http://scratch.mit.edu/projects/32391908/
+21)  Harless, Logan (lharless7): http://scratch.mit.edu/projects/32391908/
 
 
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/nametip-intro.html" target="new">(Animate Your Name)</a>
@@ -52,7 +52,7 @@ Please put your name (username): [Link to your Project]
 18) Kulkarni,Michael(mkulkarnigmail)http://scratch.mit.edu/projects/32938066/  
 19) Harless, Logan (lharless7): http://scratch.mit.edu/projects/32744198/   
 20) Anderson, Kristian (krisander32): http://scratch.mit.edu/projects/32392336/   
-21)   
+21) Solt, Terry (Tsolt) http://scratch.mit.edu/projects/32750920/  
 
 ## <a href="http://cdn.scratch.mit.edu/scratchr2/static/__7f4db57b803323db9084d409fc11deeb__/help/en/howto/cardtip-intro.html" target="new">(Make a Greeting Card)</a>
 
@@ -77,5 +77,5 @@ Please put your name (username): [Link to your Project]
 17) Thomas,White (Mehiswow): http://scratch.mit.edu/projects/32935102/
 18) Anderson, Kristian (krisander32):  http://scratch.mit.edu/projects/32945636/   
 19) Harless, Logan (lharless7): http://scratch.mit.edu/projects/33153250/   
-20)   
+20) Solt, Terry (Tsolt) http://scratch.mit.edu/projects/33151688/    
 21)
