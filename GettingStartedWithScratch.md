@@ -75,7 +75,7 @@ Please put your name (username): [Link to your Project]
 15) Atik, Daniel (datik): http://scratch.mit.edu/projects/32939820/    
 16) Kulkarni,Michael(mkulkarnigmail)http://scratch.mit.edu/projects/33152656/    
 17) Thomas,White (Mehiswow): http://scratch.mit.edu/projects/32935102/
-18) Anderson, Kristian (krisander32):  http://scratch.mit.edu/projects/32945636/   
-19) Harless, Logan (lharless7): http://scratch.mit.edu/projects/33153250/   
-20) Solt, Terry (Tsolt) http://scratch.mit.edu/projects/33151688/    
+18) Anderson, Kristian (krisander32): http://scratch.mit.edu/projects/32945636/      
+19) Harless, Logan (lharless7): http://scratch.mit.edu/projects/33153250/      
+20) Solt, Terry (Tsolt) http://scratch.mit.edu/projects/33151688/       
 21)
